@@ -16,26 +16,37 @@ Desperte o designer dentro de você! Essa apresentação serve como base para qu
 # Cores
 
 [colorlovers.com](colorlovers.com)
+
 [coolors.co](coolors.co)
+
 [colorhexa.com](colorhexa.com)
 
 # Tipografia
 
 [fonts.google.com](fonts.google.com)
+
 [typespiration.com](typespiration.com)
+
 [myfonts.com/wtf](myfonts.com/wtf)
+
 [dafont.com](dafont.com)
 
 # Imagens
 [pixabay.com](pixabay.com)
+
 [unsplash.com](unsplash.com)
+
 [tinypng.com](tinypng.com)
+
 [canva.com](canva.com)
+
 [dribbble.com](dribbble.com)
 
 # Ícones
 [iconmonstr.com](iconmonstr.com)
+
 [fontawesome.com](fontawesome.com)
+
 [game-icons.net](game-icons.net)
 
 # GIFs
