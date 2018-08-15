@@ -14,9 +14,9 @@ A ideia é apresentar algumas ferramentas e sites que podem agilizar todo esse p
 Desperte o designer dentro de você! Essa apresentação serve como base para qualquer um que deseja aprender uma base mínima de como sobreviver com dicas de design prático, não sendo focada somente para devs.
 
 ## Apresentada em:
-[Digitro - 20 FloripaJS - 14/04/2018](https://github.com/floripajs/talks/issues/10#issuecomment-377664590)
+[Digitro - 20 FloripaJS](https://github.com/floripajs/talks/issues/10#issuecomment-377664590) - 14/04/2018
 
-[GETMORE - 11/08/2018](https://getmore.com.br)
+[GETMORE](https://getmore.com.br) - 11/08/2018
 
 # Cores
 
