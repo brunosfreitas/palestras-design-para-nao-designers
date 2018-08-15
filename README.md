@@ -15,6 +15,7 @@ Desperte o designer dentro de você! Essa apresentação serve como base para qu
 
 ## Apresentada em:
 [Digitro - 20 FloripaJS - 14/04/2018](https://github.com/floripajs/talks/issues/10#issuecomment-377664590)
+
 [GETMORE - 11/08/2018](https://getmore.com.br)
 
 # Cores
