@@ -61,3 +61,5 @@ Desperte o designer dentro de você! Essa apresentação serve como base para qu
 
 ## Muito Obrigado
 brunosfreitas at gmail.com
+
+Deixem seu feedback [aqui](https://github.com/brunosfreitas/palestras-design-para-nao-designers/issues)
