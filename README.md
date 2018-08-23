@@ -18,6 +18,8 @@ Desperte o designer dentro de você! Essa apresentação serve como base para qu
 
 [GETMORE](https://getmore.com.br) - 11/08/2018
 
+[SENAI/SC 401](http://sc.senai.br/) - 22/08/2018 
+
 # Cores
 
 [colorlovers.com](colorlovers.com)
