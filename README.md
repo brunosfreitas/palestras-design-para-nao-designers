@@ -24,42 +24,42 @@ Desperte o designer dentro de você! Essa apresentação serve como base para qu
 
 # Cores
 
-[colorlovers.com](colorlovers.com)
+[colorlovers.com](https://colorlovers.com)
 
-[coolors.co](coolors.co)
+[coolors.co](https://coolors.co/)
 
-[colorhexa.com](colorhexa.com)
+[colorhexa.com](https://www.colorhexa.com/)
 
 # Tipografia
 
-[fonts.google.com](fonts.google.com)
+[fonts.google.com](https://fonts.google.com/)
 
-[typespiration.com](typespiration.com)
+[typespiration.com](http://typespiration.com)
 
-[myfonts.com/wtf](myfonts.com/wtf)
+[myfonts.com/wtf](https://myfonts.com/wtf)
 
-[dafont.com](dafont.com)
+[dafont.com](https://dafont.com)
 
 # Imagens
-[pixabay.com](pixabay.com)
+[pixabay.com](https://pixabay.com)
 
-[unsplash.com](unsplash.com)
+[unsplash.com](https://unsplash.com)
 
-[tinypng.com](tinypng.com)
+[tinypng.com](https://tinypng.com)
 
-[canva.com](canva.com)
+[canva.com](https://canva.com)
 
-[dribbble.com](dribbble.com)
+[dribbble.com](https://dribbble.com)
 
 # Ícones
-[iconmonstr.com](iconmonstr.com)
+[iconmonstr.com](https://iconmonstr.com)
 
-[fontawesome.com](fontawesome.com)
+[fontawesome.com](https://fontawesome.com)
 
-[game-icons.net](game-icons.net)
+[game-icons.net](https://game-icons.net)
 
 # GIFs
-[screentogif.com](screentogif.com)
+[screentogif.com](http://screentogif.com)
 
 ## Muito Obrigado
 brunosfreitas at gmail.com
